@@ -4,7 +4,7 @@ QuestSystem allows to extend the autoload if you want to add your own logic to t
 
 By default, QuestSystem ships with a fully working quest manager autoload, but it might be limited for some users. Here you can learn how to extend it to your needs.
 
-## Understaing the difference between `QuestSystem` and `QuestManager`
+## Understanding the difference between `QuestSystem` and `QuestManager`
 
 When we refer to `QuestSystem` in the code, we're calling the autoload, which is part of the scene tree.<br>
 When we refer to `QuestManager`, we're referring to the class that implements all the logic of the autoload.<br>
