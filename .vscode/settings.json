@@ -1,0 +1,9 @@
+{
+    "godotTools.editorPath.godot4": "D:\\Projects\\Godot\\Editors\\.editor_config\\Quest System CSharp\\Godot_v4.6.3-stable_mono_win64.exe",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/*.gd.uid": true
+    }
+}
